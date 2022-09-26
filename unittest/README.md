@@ -24,7 +24,7 @@ test prime numbers
  
 Since 2,3,5 are all prime numbers there is no assertion. The assertion succeeds because 9 is not a prime number.
  
-Fourth assertion
-Test vowels
+Fourth assertion.
+Test vowels.
  
 It can be seen that the lowercase and uppercase letters AE are not asserted. Letter B asserts.
