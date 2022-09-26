@@ -1,5 +1,6 @@
 Task 2 - Ansible Skills Test
 Mission preparation:
+
 Create two files and one file is used to specify the configuration information of ansible. The other file is the script file used to install the Apache service.
 
 Execution method:
@@ -12,6 +13,9 @@ Because the virtual machine is relatively old, it was unsuccessful in verifying 
 
 Result validation:
 Create a script file for users to install ansible.
+
 Successful installation.
+
 Testing successfully.
+
 Access page.
