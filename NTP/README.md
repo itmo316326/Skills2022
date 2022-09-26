@@ -13,4 +13,4 @@ When building the NTP dockerfile, the 7th step prompts that it cannot be read. L
 Result validation:
 Create dockerfile and run successfully.
 Server Status: Running
-----
+---
