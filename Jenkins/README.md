@@ -10,8 +10,8 @@ Pull a Jenkins image and run it
  
 Specify port 9095 because port 8080 is given to nginx.
  
-Browser to run it
+Browser to run it.
  
 Define a Jenkins script file to write the command to execute the dockerfile file.
  
-Build successfully
+Build successfully.
