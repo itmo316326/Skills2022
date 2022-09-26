@@ -15,4 +15,3 @@ Successful installation
 Testing successfully
  
 Access page
----
