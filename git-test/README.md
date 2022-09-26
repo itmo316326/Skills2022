@@ -12,4 +12,3 @@ Task check:
 Result validation:
 Create local library
 Submitted successfully
----
