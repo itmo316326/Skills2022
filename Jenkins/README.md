@@ -15,4 +15,3 @@ Browser to run it
 Define a Jenkins script file to write the command to execute the dockerfile file.
  
 Build successfully
----
